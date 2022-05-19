@@ -24,7 +24,7 @@ class About extends React.Component{
                    <div className="profile">
                    <img src={Ansh} className="user" />
                      <blockquote>
-                         Worked on React.js
+                         Team Lead <br></br>Worked on React.js
                       </blockquote>
                       <h3>{this.props.names.map(function names(value,j){
                         if (j == 0){
@@ -47,7 +47,7 @@ class About extends React.Component{
                   <div className="profile">
                   <img src={Aniket} className="user" />
                     <blockquote>
-                     Worked on React.js
+                     <br></br>Worked on React.js
                     </blockquote>
                     <h3>{this.props.names.map(function names(value,j){
                         if (j == 1){
@@ -70,7 +70,7 @@ class About extends React.Component{
                   <div className="profile">
                   <img src={Raghav} className="user" />
                     <blockquote>
-                      Worked on Bootstrap
+                     <br></br> Worked on Bootstrap
                 
                     </blockquote>
                     <h3>{this.props.names.map(function names(value,j){
@@ -94,7 +94,7 @@ class About extends React.Component{
                   <div className="profile">
                   <img src={Aksh} className="user" />
                     <blockquote>
-                    Worked on Bootstrap
+                   <br></br> Worked on Bootstrap
                     </blockquote>
                     <h3>{this.props.names.map(function names(value,j){
                         if (j == 3){
@@ -117,7 +117,7 @@ class About extends React.Component{
                   <div className="profile">
                   <img src={Rs} className="user" />
                     <blockquote>
-                    Worked on Bootstrap
+                   <br></br> Worked on Bootstrap
                     </blockquote>
                     <h3>{this.props.names.map(function names(value,j){
                         if (j == 4){

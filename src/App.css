@@ -10,7 +10,7 @@
   font-size: calc(10px + 2vmin);
 }
 body{
-  background-image: url('https://www.freegreatpicture.com/files/146/25202-colorful-high-resolution-background.jpg');
+  background-image: url('/src/back.jpg');
   background-repeat: no-repeat;
 background-attachment: fixed; 
 background-size: 100% 100%;
